@@ -18,6 +18,8 @@ With the diagnostic SNPs, you will be able to identify ibex/goat hybrids in the 
 estimate their proportion of ancestry of each species. You could also specifically look at those
 sites and their position in the genome to see if they are biologically meaningful to either
 species.
+
+
 Contact Camille Kessler if there are any questions on the data: kessler@bio.lmu.de
 Brambilla, A., Zehnder, N., Bassano, B., Rossi, L., & Grossen, C. (2024). Genetic evidence of a
 hybrid swarm between Alpine ibex (Capra ibex) and domestic goat (C. hircus).
